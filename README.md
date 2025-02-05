@@ -1,2 +1,2 @@
-# Lake-UI-Libraries
-a folder of all current lake ui libs made by me
+# UI Libraries
+a folder of ui libraries made by me
